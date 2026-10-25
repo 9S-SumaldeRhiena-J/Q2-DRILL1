@@ -1,0 +1,28 @@
+    body {
+    background-image:url('SPORT.jpg');
+    background-size: cover;
+    
+    .container {
+        color: rgb(9, 19, 72);
+        text-align: center;
+        border-radius: 20px;
+    }
+
+    .row{
+        gap: 10px;
+        border-radius: 20px;
+    }
+
+    .col{
+        border-radius: 20px;
+    }
+
+    .image {
+        text-align: center;
+    }
+
+    p{
+        font-size: 20px;
+        text-align: center;
+    }
+}
